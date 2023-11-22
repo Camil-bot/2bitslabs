@@ -80,3 +80,12 @@ h2, h3{
         color: white !important;
     }
 }
+
+.anchor-deny{
+    color: white !important;
+    text-decoration: none !important;
+    &:hover{
+        color: #a66af8 !important;
+        text-decoration: none !important;
+    }
+}
